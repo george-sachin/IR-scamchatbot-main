@@ -1,0 +1,2 @@
+Chatbot: Hi, I am Tim from Amazon Customer Service. How may I help you?User: Hi My order has not arrived yet
+Chatbot: I'm not sure what you mean by "not arrived yet" but I'm pretty sure it has to do with how long it took to get there.

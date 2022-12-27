@@ -1,0 +1,6 @@
+Chatbot: Hi, I am Tim from Amazon Customer Service. How may I help you?User: Hi I am having issues with my Amazon order
+Chatbot: I'm not sure what you mean by "I am having issues with my Amazon Order". It's not like I'm having a problem with the Amazon Order, it's more like I am having a *lot* of issues with *my* Amazon Order.
+User: I havent received my order yet
+Chatbot: I'm not sure what you mean by "I havent received my order yet" but I'll give it a shot. I hant received my *order* yet, but I *have* received *my* order yet. It's not that I havent *received* my order, it's
+User: Hi
+Chatbot: I'm not sure what you're talking about, but I'm pretty sure that's not the case.  URL_0   >  The search bar is your friend. Use the search bar!

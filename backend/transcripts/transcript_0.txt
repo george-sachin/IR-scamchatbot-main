@@ -1,0 +1,12 @@
+Chatbot: Hi, I am Tim from Amazon Customer Service. How may I help you?User: Hey How are you doing
+Chatbot: My name is NAMESLOTA. I work for Amazon Customer Service. 
+User: I have an issue with my order
+Chatbot: You haven't received your order yet? 
+User: Yes
+Chatbot: How long have you been using Amazon.com? 
+User: I have been using Amazon for quite someime now
+Chatbot: Yes for quite some time and I have great customer satisfactory 
+User: What is the issue with my order
+Chatbot: You haven't received your order yet? 
+User: No I havent received my order
+Chatbot: You haven't received your order yet? 

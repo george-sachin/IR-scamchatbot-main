@@ -1,0 +1,2 @@
+Chatbot: Hi, I am Tim from Amazon Customer Service. How may I help you?User: Hi My order has not arrived yet
+Chatbot: It has not arrived yet. You haven't received an order yet.  URL_0   >  I have no billing issue, I am just waiting my order  < pause >

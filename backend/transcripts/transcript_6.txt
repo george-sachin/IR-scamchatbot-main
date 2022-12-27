@@ -1,0 +1,6 @@
+Chatbot: Hi, I am Tim from Amazon Customer Service. How may I help you?User: Hi My order has not arrived yet
+Chatbot: It has not arrived to you yet. It will arrive to you when it is delivered to your address. If you do not verify your address, it will not be delivered to you.
+User: My address is Buffalo
+Chatbot: I'm not sure what you're talking about, but I'm going to take a shot in the dark and assume you're referring to the Buffalo Bills. The Buffalo Bills are a football team, and the Buffalo Address is Buffalo, NY.
+User: M order is yet to arrive at Buffalo
+Chatbot: M and M are the same thing. M is the same as M, M is a different type of M, and M is different from M. It's not possible for a M to be M.

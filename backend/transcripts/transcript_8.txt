@@ -1,0 +1,8 @@
+Chatbot: Hi, I am Tim from Amazon Customer Service. How may I help you?User: Hi Tim, Please can you help me with my order
+Chatbot: I'm not sure what you're talking about, but I'd like to help you with your order. Can you confirm your full name for me? Can you give me the product code please?
+User: My name is XYZ and the product code is 2132
+Chatbot: The product code is 2132 and the name is XYZ. You can't give me the product code please, but I can help you with your order.
+User: I havent received my order yet
+Chatbot: You haven't received your order yet? I'm not sure what you mean by "have not received my order yet", but I'm pretty sure you have.
+User: My order is still in pending status
+Chatbot: I can help you with your order. Can you give me the product code please? Yes, I can do that for you. 2132 is a 2132.
